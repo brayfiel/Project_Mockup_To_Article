@@ -1,0 +1,39 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  
+  * What new skills have you learned?
+  
+  * What has been easy?
+  
+  * What has been difficult?
+  
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+
+
+---
+
+
+
+Your response goes here!
+
+Q. What new skills have you learned?
+
+A. I've learned what HTML is.  Its syntax and how to serve it up in the browser.  When there is a problem the resources available to solve the problem.  Finally, and most importantly, how to properly ask a question concerning HTML in order to efficiently leverage those resources.
+
+
+
+Q. What has been easy?
+
+A. HTML syntax has been the easiest.
+
+
+
+Q. What has been difficult?
+
+A. Translation of certain terms, such as drawing a line vs. adding a horizontal rule.
+
+
+
+Q. How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+A. See above answer as I missed the hint on the horizontal rule.  Google and Stack Overflow were useful in pointing me to the correct area in MDN for the horizontal rule tag.
